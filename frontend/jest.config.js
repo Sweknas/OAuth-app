@@ -1,0 +1,3 @@
+{
+  setupFiles: ['core-js']
+}
